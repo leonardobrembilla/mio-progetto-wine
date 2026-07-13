@@ -89,7 +89,7 @@ These evaluation techniques provide a robust assessment of the classifier's pred
 ## 📁 Project Structure
 
 ```
-├── LeonardoBrembillaMLI.ipynb
+├── LeonardoBrembillaML.ipynb
 ├── README.md
 ├── requirements.txt
 └── wine.csv
